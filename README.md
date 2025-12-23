@@ -1,8 +1,3 @@
-Below is a **clean, professional, submission-ready README** you can directly put into your repository.
-It’s written from a **computer networks + systems** perspective (LAN, edge server, local inference), not hype.
-
----
-
 # EdgeServer: LAN-Based Local Colab for LLM Training & Inference
 
 ## Overview
