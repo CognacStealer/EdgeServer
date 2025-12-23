@@ -69,44 +69,6 @@ Client Devices (Browser)
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-repo/edgeserver.git
-cd edgeserver
-```
-
-### 2. Create Virtual Environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Start the Edge Server
-
-```bash
-jupyter lab --ip=0.0.0.0 --port=8888 --no-browser
-```
-
-### 5. Access from LAN
-
-Open a browser on any LAN-connected device:
-
-```
-http://<EDGE_SERVER_IP>:8888
-```
-
----
-
 ## Usage Workflow
 
 1. User connects to the edge server via browser
